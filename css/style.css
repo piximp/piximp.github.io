@@ -19,3 +19,59 @@ a {
     color: inherit;
     text-decoration: none
 }
+
+a.trans1 {
+    color: lightblue;
+}
+
+a.trans3 {
+    color: pink;
+}
+
+a.ren {
+    color: #CBC3E3;
+}
+
+a.poems {
+    color: lightgoldenrodyellow;
+}
+
+a.songs {
+    color: lightcoral;
+}
+
+a.music {
+    color:lightpink
+}
+
+a.code {
+    color:blueviolet
+}
+
+a.flux {
+    color:#bc5ce2;
+}
+
+a.hanabi {
+    color:#0684e3;
+}
+
+a.onyx {
+    color:rgb(189, 189, 189);
+}
+
+a.fizz {
+    color:greenyellow
+}
+
+a.fizz2 {
+    color:palevioletred;
+}
+
+a.starwars {
+    color:yellow
+}
+
+p.brackets {
+    color:rgb(222, 222, 222);
+}
