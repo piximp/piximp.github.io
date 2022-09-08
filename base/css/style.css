@@ -7,7 +7,7 @@ html {
     background-color: black;
     color: whitesmoke;
     font-family: 'Pixel';
-    font-size: small;
+    font-size: medium;
     line-height: 1.5px;
 }
 
@@ -49,15 +49,15 @@ a.code {
 }
 
 a.flux {
-    color:#bc5ce2;
+    color:#dd88ff;
 }
 
 a.hanabi {
-    color:#0684e3;
+    color:#83c9ff;
 }
 
-a.onyx {
-    color:rgb(189, 189, 189);
+a.titan {
+    color:rgb(205, 205, 205);
 }
 
 a.fizz {
@@ -73,5 +73,25 @@ a.starwars {
 }
 
 p.brackets {
-    color:rgb(222, 222, 222);
+    color:rgb(240, 240, 240);
+}
+
+a.falling {
+    color: beige;
+}
+
+a.in {
+    color:cornsilk;
+}
+
+a.love {
+    color:lightpink;
+}
+
+a.mi {
+    color:red;
+}
+
+a.amor {
+    color:pink;
 }
