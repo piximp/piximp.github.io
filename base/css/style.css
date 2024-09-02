@@ -1,18 +1,17 @@
 @font-face {
-    font-family: 'Pixel';
-    src: url(./fonts/pixel.ttf) format('truetype');
+    font-family: 'IBM Plex Mono';
+    src: url(./fonts/ibmplexmono.ttf) format('truetype');
 }
 
 html {
-    background-color: black;
-    color: whitesmoke;
-    font-family: 'Pixel';
+    background-color: white;
+    color: black;
+    font-family: 'IBM Plex Mono';
     font-size: medium;
     line-height: 1.5px;
 }
-
-body {
-    margin-top: 50px;
+p {
+    font-size: small;
 }
 
 a {
@@ -20,82 +19,10 @@ a {
     text-decoration: none
 }
 
-a.trans1 {
-    color: lightblue;
+img {
+    width: 60px;
 }
 
-a.trans3 {
-    color: pink;
-}
-
-a.ren {
-    color: #CBC3E3;
-}
-
-a.poems {
-    color: lightgoldenrodyellow;
-}
-
-a.songs {
-    color: lightcoral;
-}
-
-a.music {
-    color:lightpink
-}
-
-a.code {
-    color:blueviolet
-}
-
-a.flux {
-    color:#dd88ff;
-}
-
-a.hanabi {
-    color:#83c9ff;
-}
-
-a.titan {
-    color:rgb(205, 205, 205);
-}
-
-a.fizz {
-    color:greenyellow
-}
-
-a.fizz2 {
-    color:palevioletred;
-}
-
-a.starwars {
-    color:yellow
-}
-
-p.brackets {
-    color:rgb(240, 240, 240);
-}
-
-a.falling {
-    color: beige;
-}
-
-a.in {
-    color:cornsilk;
-}
-
-a.love {
-    color:lightpink;
-}
-
-a.mi {
-    color:red;
-}
-
-a.amor {
-    color:pink;
-}
-
-a.grey {
-    color:gray;
+div {
+    margin-bottom: 25px;
 }
